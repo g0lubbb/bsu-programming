@@ -1,5 +1,5 @@
 #include <iostream>
-
+using namespace std;
 char* strcpy(char* dest, const char* src) {
     char* ptr = dest;
     while (*src != '\0') {
@@ -10,16 +10,16 @@ char* strcpy(char* dest, const char* src) {
 }
 
 int main() {
-    const int MAX_LENGTH = 100;
+    const int MAX_LENGTH = 300;
     char strSource[MAX_LENGTH];
     char strDestination[MAX_LENGTH];
 
-    std::cout << "Enter the line to copy: ";
-    std::cin.getline(strSource, MAX_LENGTH);
+    cout << "Enter the line to copy: ";
+    cin.getline(strSource, MAX_LENGTH);
 
     strcpy(strDestination, strSource);
 
-    std::cout << "Copy result: " << strDestination << std::endl;
+cout << "Copy result: " << strDestination << endl;
 
     return 0;
 }
