@@ -1,3 +1,0 @@
-/Users/golubdima/Desktop/lab6/cmake-build-debug/CMakeFiles/lab6.dir
-/Users/golubdima/Desktop/lab6/cmake-build-debug/CMakeFiles/edit_cache.dir
-/Users/golubdima/Desktop/lab6/cmake-build-debug/CMakeFiles/rebuild_cache.dir
