@@ -1,0 +1,3 @@
+/Users/golubdima/Desktop/kr1/cmake-build-debug/CMakeFiles/kr1.dir
+/Users/golubdima/Desktop/kr1/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/golubdima/Desktop/kr1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
